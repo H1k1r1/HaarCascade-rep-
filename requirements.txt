@@ -1,5 +1,0 @@
-#include <opencv2/opencv.hpp>         // Main OpenCV header
-#include <opencv2/core.hpp>           // Core functionality
-#include <opencv2/imgproc.hpp>        // Image processing
-#include <opencv2/highgui.hpp>        // GUI (for imshow, waitKey, etc.)
-#include <opencv2/objdetect.hpp>      // Object detection (Haar Cascade)
