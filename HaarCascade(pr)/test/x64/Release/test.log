@@ -1,0 +1,11 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019_64/msvc2019_64/bin/qmake)
+  moc mainwindow.h
+  main.cpp
+  mainwindow.cpp
+C:\Users\cromm\OneDrive\Рабочий стол\Новая папка\test\test\mainwindow.cpp(69,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  moc_mainwindow.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  test.vcxproj -> C:\Users\cromm\OneDrive\Рабочий стол\Новая папка\test\x64\Release\test.exe
